@@ -1,4 +1,5 @@
 # DemoRepository
 this is my first git repository
 <br>
-Author : manish kalsariya
+Author : manish kalsariya (maanu)
+cd
